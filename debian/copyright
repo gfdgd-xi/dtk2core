@@ -3,7 +3,6 @@ Upstream-Name: dtkcore
 Source: https://github.com/linuxdeepin/dtkcore
 
 Files: *
-Copyright: 2017 Deepin Technology Co., Ltd.
 License: GPL-3+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
